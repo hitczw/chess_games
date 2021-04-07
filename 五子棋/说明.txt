@@ -1,0 +1,4 @@
+点击TouchMe运行游戏
+Parameter 基本参数设置
+ClassRule 游戏规则类
+ClassBasicDraw 基本绘制类
